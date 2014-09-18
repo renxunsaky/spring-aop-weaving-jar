@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Built-By: Denis
+Class-Path: lib/spring-aop-4.0.7.RELEASE.jar lib/aopalliance-1.0.jar l
+ ib/spring-beans-4.0.7.RELEASE.jar lib/spring-core-4.0.7.RELEASE.jar l
+ ib/spring-integration-core-4.0.3.RELEASE.jar lib/spring-tx-4.0.7.RELE
+ ASE.jar lib/spring-retry-1.1.0.RELEASE.jar lib/spring-messaging-4.0.7
+ .RELEASE.jar lib/spring-context-4.0.7.RELEASE.jar lib/spring-expressi
+ on-4.0.7.RELEASE.jar lib/spring-boot-1.1.6.RELEASE.jar lib/spring-boo
+ t-starter-web-1.1.6.RELEASE.jar lib/spring-boot-starter-1.1.6.RELEASE
+ .jar lib/spring-boot-autoconfigure-1.1.6.RELEASE.jar lib/spring-boot-
+ starter-logging-1.1.6.RELEASE.jar lib/jcl-over-slf4j-1.7.7.jar lib/sl
+ f4j-api-1.7.7.jar lib/jul-to-slf4j-1.7.7.jar lib/log4j-over-slf4j-1.7
+ .7.jar lib/logback-classic-1.1.2.jar lib/logback-core-1.1.2.jar lib/s
+ nakeyaml-1.13.jar lib/spring-boot-starter-tomcat-1.1.6.RELEASE.jar li
+ b/tomcat-embed-core-7.0.55.jar lib/tomcat-embed-el-7.0.55.jar lib/tom
+ cat-embed-logging-juli-7.0.55.jar lib/jackson-databind-2.3.4.jar lib/
+ jackson-annotations-2.3.4.jar lib/jackson-core-2.3.4.jar lib/hibernat
+ e-validator-5.0.3.Final.jar lib/validation-api-1.1.0.Final.jar lib/jb
+ oss-logging-3.1.1.GA.jar lib/classmate-1.0.0.jar lib/spring-web-4.0.7
+ .RELEASE.jar lib/spring-webmvc-4.0.7.RELEASE.jar lib/javax.inject-1.j
+ ar lib/aspectjrt-1.8.2.jar lib/aspectjweaver-1.8.2.jar lib/aspectjtoo
+ ls-1.8.2.jar lib/spring-instrument-4.0.7.RELEASE.jar lib/commons-lang
+ -2.6.jar
+Build-Jdk: 1.8.0_11
+Created-By: Maven Integration for Eclipse
+Main-Class: com.surpassun.aspect.App
+
